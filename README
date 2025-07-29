@@ -1,3 +1,13 @@
+NOTE: This repository should be considered read-only. For the Tcl Parser
+component, the [tcl-parser](https://github.com/tcltk-depot/tcl-parser)
+repository is recommended. For the debugger itself, use
+[tcl-debugger](https://github.com/tcltk-depot/tcl-parser).
+
+This repository is a fork of the Flightaware repository with updates
+to support Tcl 9.
+
+Original README from the Flightaware repository:
+
 The TclPro Debugger version 2.0 is an upgrade of of the debugger included in the
 TclPro product version 1.5 released and open-sourced by Scriptics Corporation.
 
@@ -13,7 +23,6 @@ The information in the chapter on the Debugger is still valid.
 
 The debugger code has been upgraded to function with up-to-date releases of 
 Tcl/Tk (i.e., versions 8.5, 8.6):
-
 
 * Tk GUI code upgraded to work with current Tk API.
 
